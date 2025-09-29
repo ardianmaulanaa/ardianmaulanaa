@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Computer Science undergraduate at **Telkom University**
+- 🎓 Informatics undergraduate at **Telkom University**
 - 🔮 Passionate about **Database & Query Optimization (SQL/NoSQL)**
 - 💻 Love working with **Go, Node.js, Java, Python, and Laravel,**
 - 🌱 Currently learning **System Design & Modelling (UML, BPMN, ERD)**
