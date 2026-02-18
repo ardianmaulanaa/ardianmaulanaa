@@ -1,43 +1,64 @@
-### 🌟 About Me
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Ardian</h1>
+<h3 align="center">Informatics Student • Backend Explorer • Future System Builder</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+</p>
+
+---
+
+## 🌟 About Me
+
+```yaml
+Name: Muhammad Ardian Maulana
+Role: Informatics Undergraduate
+Focus: Backend • Databases • System Design
+```
 
 - 🎓 Informatics undergraduate at **Telkom University**
 - 🔮 Passionate about **Database & Query Optimization (SQL/NoSQL)**
-- 💻 Love working with **Go, Node.js, Java, Python, and Laravel,**
-- 🌱 Currently learning **System Design & Modelling (UML, BPMN, ERD)**
-- ✨ Always open to collaboration on exciting projects!
+- 💻 Love working with **Go | Node.js | Java | Python | Laravel**
+- 🌱 Currently learning **System Design & Modeling (UML, BPMN, ERD)**
+- ✨ Always open to collaboration on exciting projects
 
 ---
 
-### 🔗 Connect with Me
+## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,java,python,laravel,mysql,postgres,mongodb,git,linux,vscode"/>
+</p>
+
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ardian-maulana-92449b30a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:ardianmaulana92251@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ardianmaulana92251@email.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🎵 Fun Corner
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdianMaulana&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdianMaulana&theme=tokyonight" alt="streak"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> — Cory House
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 </p>
 
 ---
 
-### 🎵 Fun Corner
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
 </p>
