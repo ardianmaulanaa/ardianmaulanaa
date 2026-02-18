@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋 I'm Ardian</h1>
 <h3 align="center">Informatics Student • Backend Explorer • Future System Builder</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
 
 ---
 
@@ -61,6 +58,3 @@ Focus: Backend • Databases • System Design
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
-</p>
