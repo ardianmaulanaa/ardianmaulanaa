@@ -27,7 +27,7 @@ Focus: Backend • Databases • System Design
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,java,python,laravel,mysql,postgres,mongodb,git,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,java,python,laravel,mysql,postgres,mongodb,git,c,vscode"/>
 </p>
 
 
@@ -52,10 +52,12 @@ Focus: Backend • Databases • System Design
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
 > — Cory House
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
 </p>
+
+<div align = "center" >
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
 
 ---
 
